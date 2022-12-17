@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Baumans&family=Fascinate&family=Lato:ital,wght@1,900&family=Lobster&family=Manrope:wght@400;500&family=Open+Sans:wght@400;500;600;700&family=Passions+Conflict&display=swap');
+
+.pizza_heading .pizza{
+    color: #B73E3E;
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.pizza_heading .com{
+    color: #F49D1A;
+    font-family:'poppins',sans-serif;
+    font-size: 40px;
+}
+
+.pizza_img{
+    width:70px;
+    height:50px;
+    position: absolute;
+    top:6.5%;
+    left:36%
+}
+
+.main-heading{
+    display: flex;
+    justify-content: center;
+}
+
+.left-part-pizzaBase{
+    width:30%;
+    height: 550px;
+    border-radius:5px;
+    box-shadow: 5px 2px 5px 2px rgb(0 0 0/ 0.6);
+    background: #fff;
+    position: absolute;
+    left: 40px;
+    top:20%;
+    text-align: center;
+    font-family:'poppins',sans-serif;
+}
+
+.right-part-pizzaIngredients{
+    width:30%;
+    height:550px;
+    border-radius:5px;
+    box-shadow: 5px 2px 5px 2px rgba(0, 0, 0, 0.325);
+    background: #fff;
+    position: absolute;
+    right: 40px;
+    top:20%;
+    text-align: center;
+    font-family:'poppins',sans-serif;
+}
+
+
+
+.veggie{
+    display: flex;
+    justify-content: center;
+}
+
+.base1{
+    width: 220px;
+}
+
+.veg-base1{
+    font-family: 'Lobster', cursive;
+    margin-top:5vw;
+    color:#DC3535;
+}
+
+.nonveggie{
+    display: flex;
+    justify-content: center;
+}
+
+.base2{
+    width: 200px;
+}
+
+.non-base2{
+    font-family: 'Lobster', cursive;
+    margin-top:5vw;
+    color:#F49D1A;
+}
+
+
+.image1{
+    width:30%;
+}
+
+.image2{
+    width: 35%;
+}
+
+.image3{
+    width: 30%;
+}
+
+.image4{
+    width:38%;
+    height: 50% ;
+    margin-top:20px;
+    margin-left:10px;
+}
+
+.image5{
+    width:38%;
+    margin-top:0px;
+    margin-left:10px;
+}
+
+.image6{
+    width:30%;
+    border-radius:50%;
+    margin-top:8%;
+    margin-left:-15px;
+}
+
+.image7{
+    width:30%;
+}
+
+.image8{
+    width:30%;
+}
+
+.green{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:38px;
+    top: 180px;
+    color:#F57328;
+}
+
+.Red{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:180px;
+    top: 180px;
+    color:#F57328;
+}
+
+.chillyF{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:310px;
+    top: 180px;
+    color:#F57328;
+}
+
+.mushrooms{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:85px;
+    top:360px;
+    color:#F57328;
+}
+
+.cheese{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:300px;
+    top:360px;
+    color:#F57328;
+}
+
+.sauce{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:80px;
+    top:520px;
+    color:#F57328;
+}
+
+.onions{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:190px;
+    top:520px;
+    color:#F57328;
+}
+
+.Tomatoes{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left:320px;
+    top:520px;
+    color:#F57328;
+}
+
+#line1{
+    width: 150px;
+    border: 1.5px solid red;
+}
+
+#line2{
+    width: 150px;
+    border: 1.5px solid red;
+}
+
+#final-Pizza{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    margin: 40%;
+    border: 2px dotted #B73E3E;
+    top:-50%;
+    left:-4%;
+    border-radius: 50%;
+}
+   
