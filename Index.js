@@ -22,7 +22,7 @@ for (var j of choice) {
   j.addEventListener("drop", Drop);
 }
 function Drop() {
-  this.appendChild(dragItem);
+  this.append(dragItem);
 }
 function dragOver(e) {
   e.preventDefault();
